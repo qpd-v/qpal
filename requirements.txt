@@ -1,0 +1,9 @@
+aiohttp
+anthropic
+boto3
+chardet
+flask
+googlesearch-python
+lxml
+openai
+python-dotenv
